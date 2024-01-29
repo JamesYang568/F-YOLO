@@ -152,7 +152,7 @@ Pretrained checkpoint will coming soon.
 | yolox_ua-detrca   | 300   | 40.0 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/yolox/yolox_s_fast_uadetrca.py) | [link]                                                       |
 | PPYOLOE_ua-detrac | 100   | 43.7 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/ppyoloe/ppyoloe_plus_s_uadetrca.py) | [link]                                                       |
 | PPYOLOE_bdd       | 100   | 29.2 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/ppyoloe/ppyoloe_plus_s_bdd.py) | [link]                                                       |
-| YOLOv6_coco       | 300   | 43.5 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/yolov6/yolov6_s_syncbn_fast_8xb32-300e_coco.py) | [link](链接：https://pan.baidu.com/s/1sqhWYCFx47xRgZw6sWfl9Q)  code:` hwpt` |
+| YOLOv6_coco       | 300   | 43.5 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/yolov6/yolov6_s_syncbn_fast_8xb32-300e_coco.py) | [link](https://pan.baidu.com/s/1sqhWYCFx47xRgZw6sWfl9Q)  code:`hwpt` |
 | YOLOv6_bdd        | 100   | 29.7 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/yolov6/yolov6_s_2xb32-100e_bdd.py) | [link]                                                       |
 | YOLOv6_ua-detrac  | 300   | 43.0 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/yolov6/yolov6_s_2xb32-300e_uadetrca.py) | [link]                                                       |
 | YOLOv8_visdrone   | 100   | 20.9 | [cfg](https://github.com/JamesYang568/F-YOLO/blob/main/mmyolo/configs/yolov8/yolov8_s_visdrone.py) | [link]                                                       |
